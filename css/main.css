@@ -54,7 +54,7 @@ body {
 /* Banner */
 
 .banner {
-    background-image: url("/img/pasteleria.jpg");
+    background-image: url("../img/pasteleria.jpg");
     height: calc(80vh - 100px);
     position: relative;
     display: flex;
